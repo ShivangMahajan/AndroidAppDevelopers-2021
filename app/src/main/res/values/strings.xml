@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">InternshipProgram</string>
+    <string-array name="gender_selection_array">
+        <item>Select your Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
 </resources>
